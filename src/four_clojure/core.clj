@@ -1,4 +1,7 @@
 (ns four-clojure.core)
 
-;; intro to Strings
+;; Intro to Strings
 (= "HELLO WORLD" (.toUpperCase "hello world"))
+
+;; Intro to Lists
+(= (list :a :b :c) '(:a :b :c))
